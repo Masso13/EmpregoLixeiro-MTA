@@ -1,0 +1,4 @@
+<meta>
+    <script src="edit.lua" type="shared"/>
+    <script src="scriptS.lua" type="server"/>
+</meta>
